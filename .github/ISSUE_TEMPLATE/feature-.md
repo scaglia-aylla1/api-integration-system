@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Nova Funcionalidade
-about: Template para implementar novas funcionalidades
-title: '[FEATURE] '
-labels: enhancement
-assignees: ''
----
-
 ## 🎯 Objetivo
 Descreva claramente o que deve ser implementado
 
