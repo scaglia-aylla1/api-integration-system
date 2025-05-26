@@ -7,13 +7,7 @@ assignees: ''
 
 ---
 
----
-name: Configuração/Setup
-about: Template para tarefas de configuração e setup
-title: '[SETUP] '
-labels: config, priority-high
-assignees: ''
----
+
 
 ## ⚙️ Configuração a Implementar
 Descreva o que precisa ser configurado
