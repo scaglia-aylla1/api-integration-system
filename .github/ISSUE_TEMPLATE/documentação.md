@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Documentação
-about: Template para tarefas de documentação
-title: '[DOCS] '
-labels: documentation
-assignees: ''
----
-
 ## 📖 Documentação a Criar/Atualizar
 Descreva que documentação precisa ser criada ou atualizada
 
