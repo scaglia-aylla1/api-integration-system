@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Correção de Bug
-about: Template para reportar e corrigir bugs
-title: '[BUG] '
-labels: bug, priority-high
-assignees: ''
----
-
 ## 🐛 Descrição do Bug
 Descrição clara e concisa do que está acontecendo
 
